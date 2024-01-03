@@ -1,5 +1,5 @@
 <h2> Hi, I'm Begli Welli! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://gist.githubusercontent.com/devfast01/e2ae3d8e164c18a6d7d26411c3f10503/raw/89e2d809694f6c7d63f0c5a542245b1d22b1c781/dino.gif" width="200">
+<img align='right' src="https://gist.githubusercontent.com/devfast01/e2ae3d8e164c18a6d7d26411c3f10503/raw/89e2d809694f6c7d63f0c5a542245b1d22b1c781/dino.gif" width="230">
 <p><em>Student at <a href="https://etut.edu.tm/">University of Turkmenistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Developer at <a href="https://aydym.com/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
