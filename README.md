@@ -18,7 +18,7 @@ const thai = {
   tools: [Material design, Retrofit, Volley, exoPlayer, Music service, Pagging3],
   architecture: ["MVVM", "design system pattern"],
   projects:{  ["Ecommerse" = "Ecommerse mobile app"],
-              ["Smart Home" = "mobile app to controll smart house from distanse"],
+              ["Smart Home" = "mobile app to control smart house from distanse"],
             }
 }
 ```
