@@ -42,7 +42,7 @@ const thai = {
 <br>
 
 
-| <a href="https://github.com/devfast01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devfast01&show_icons=true&include_all_commits=true&hide_border=true" alt="Begli Welli github stats" /></a> | <a href="https://github.com/devfast01"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfast01&layout=pie" /></a> |
+| <a href="https://github.com/devfast01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devfast01&show_icons=true&include_all_commits=true&hide_border=true" alt="Begli Welli github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=devfast01&show_icons=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfast01&layout=pie" /></a> |
 | ------------- | ------------- |
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
