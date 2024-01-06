@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Begli Welli</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">Begli Welli</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> </h1>
 </div>
 
 <h2> Hi, I'm Begli Welli! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
