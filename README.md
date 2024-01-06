@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">Begli Welli</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 </div>
 
-<p><em>Student at <a href="https://etut.edu.tm/">University of Turkmenistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"></br>Mobile Developer at <a href="https://aydym.com/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p><em>Student at <a href="https://etut.edu.tm/">University of Turkmenistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Developer at <a href="https://aydym.com/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 </em></p>
 
 🔗 &nbsp;**Connect with me**
