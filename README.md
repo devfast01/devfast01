@@ -35,6 +35,7 @@ const thai = {
 | <a href="https://github.com/devfast01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devfast01&show_icons=true&include_all_commits=true&hide_border=true" alt="Begli Welli github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devfast01&layout=pie"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfast01&layout=pie" /></a> |
 | ------------- | ------------- |
 
+<p align="center">
 🔗 &nbsp;**Connect with me**
 <p align="center">
 <a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
