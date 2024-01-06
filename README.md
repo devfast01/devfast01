@@ -3,7 +3,9 @@
 </div>
 <p><em>Student at <a href="https://etut.edu.tm/">University of Turkmenistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Developer at <a href="https://aydym.com/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 </em></p>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 ```javascript
 const thai = {
   pronouns: "he" | "his",
@@ -26,8 +28,10 @@ const thai = {
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <br>
+
 | <a href="https://github.com/devfast01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devfast01&show_icons=true&include_all_commits=true&hide_border=true" alt="Begli Welli github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devfast01&layout=pie"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfast01&layout=pie" /></a> |
 | ------------- | ------------- |
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -37,6 +41,3 @@ const thai = {
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-
-
