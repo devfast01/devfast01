@@ -35,7 +35,7 @@ var thai = {
 <br>
 
 ### 🔗 Connect with me ↓
-<p align="left">
+<em><b>iot123tech@gmail.com</b></em>
 <a href="https://mail.google.com/" target="blank"><img align="center" src="https://gist.githubusercontent.com/devfast01/e2ae3d8e164c18a6d7d26411c3f10503/raw/ae611bf2c8cb0e6802b231056d0bc9af91296043/pngwing.com.png" alt="Begli" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/begli-welliyew-472082256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gist/devfast01/e2ae3d8e164c18a6d7d26411c3f10503/raw/615555928176e2ff1235d8c7a0bb5548dcf0c299/LinkedIn.svg" alt="Begli" height="70" width="70" /></a>
 
