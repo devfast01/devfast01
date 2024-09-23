@@ -34,7 +34,7 @@ var thai = {
 
 <br>
 
-## 🔗 Connect with me ↓:
+### 🔗 Connect with me ↓
 <p align="left">
 <a href="https://mail.google.com/" target="blank"><img align="center" src="https://gist.githubusercontent.com/devfast01/e2ae3d8e164c18a6d7d26411c3f10503/raw/ae611bf2c8cb0e6802b231056d0bc9af91296043/pngwing.com.png" alt="Begli" height="30" width="40" /></a>
 
