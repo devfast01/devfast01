@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm <a href="https://hemant.codes">Begli Welli</a> <img src="https://gist.githubusercontent.com/devfast01/e2ae3d8e164c18a6d7d26411c3f10503/raw/fae92015f96feb43bfeb389b6d5a6babb62450f4/begli.jpeg" width="50" heigth="50" style="border-radius:80%;"> </h1>
+   <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm <a href="https://hemant.codes">Begli Welli !</a></h1>
 </div>
 
 </br>Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="50" width="50"  > 
