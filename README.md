@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">Begli Welli</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 </div>
 
-<p><em>Student at <a href="https://etut.edu.tm/">University of Turkmenistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Developer at <a href="https://aydym.com/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
+</br>Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="50" width="50"  > 
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
