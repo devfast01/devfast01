@@ -8,10 +8,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-var thai = {
+var myCareer = {
   pronouns: "he" | "his",
-  platform: [Android NATIVE, Android Studio ],
-  code: [Kotlin, C++, Python, Java],
+  platform: [Android],
+  language: [Kotlin, Dart, Java, C++, Python],
   tools: [Material design, Retrofit, Volley, exoPlayer, Music service, Pagging3],
   architecture: ["MVVM", "design system pattern"],
   projects:{  ["Ecommerse" = "Ecommerse mobile app"],
