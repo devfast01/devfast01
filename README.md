@@ -12,7 +12,7 @@ var myCareer = {
   pronouns: "he" | "his",
   platform: {Android},
   language: {Kotlin, Dart, Java, C++, Python},
-  tools: {Clean-Architecure, Retrofit, Volley, exoPlayer, Music service, Pagging3},
+  tools: {Clean-Architecure, Dagger-Hilt, Media3(media-player), Music service, Pagging3},
   architecture: {"MVVM", "design system pattern"},
   projects:[  {"Ecommerse" = "Ecommerse mobile app"},
               {"Smart Home" = "mobile app to control smart house from distanse"},
