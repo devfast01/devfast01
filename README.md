@@ -14,8 +14,8 @@ var myCareer = {
   language: {Kotlin, Dart, Java, C++, Python},
   tools: {Clean-Architecture, Dagger-Hilt, Media3(media-player), Music service, Pagging3},
   architecture: {"MVVM", "design system pattern"},
-  projects:[  {"Ecommerse" = "Ecommerse mobile app"},
-              {"Smart Home" = "mobile app to control smart house from distanse"},
+  projects:[  {"Clone app of 100haryt.com"},
+              {"Aydym.com music player app"},
             ]
 }
 ```
