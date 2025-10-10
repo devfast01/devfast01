@@ -44,10 +44,9 @@ var myCareer = {
 
 
 
-   <h3>
-      <img src="" width="30">
-      <a href="https://www.instagram.com/taslama_isler/"> My handmade projects in instagram.</a>
-   </h3>
+<h3>
+   <a href="https://www.instagram.com/taslama_isler/"> My handmade projects in instagram.</a>
+</h3>
 
 
 
