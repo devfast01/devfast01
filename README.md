@@ -43,12 +43,12 @@ var myCareer = {
 <br>
 
 
-<div align="start">
-   <h2 >
+
+   <h3>
       <img src="" width="30">
       <a href="https://www.instagram.com/taslama_isler/"> My handmade projects in instagram.</a>
-   </h2>
-</div>
+   </h3>
+
 
 
 ### 🔗 Connect with me ↓
