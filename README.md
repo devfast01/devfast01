@@ -4,7 +4,7 @@
 
 ### Graduated:
 <div align="start">
-   <h1><img src="https://www.iau-hesd.net/sites/default/files/styles/medium/public/media_logo/Oguz-Han.png?itok=upM-6J0T" width="30"> <a href="https://etut.edu.tm/"> Oguzhan University of Engineering Technologies</a></h1>
+   <h1><img src="https://www.iau-hesd.net/sites/default/files/styles/medium/public/media_logo/Oguz-Han.png?itok=upM-6J0T" width="30"> <a href="https://etut.edu.tm/" style="font-size: 12px;"> Oguzhan University of Engineering Technologies</a></h1>
 </div>
 
 </br>Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="50" width="50"  > 
