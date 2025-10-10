@@ -12,7 +12,7 @@ var myCareer = {
   pronouns: "he" | "his",
   platform: {Android --> KOTLIN, FLUTTER, JETPACK COMPOSE},
   language: {Kotlin, Dart, Java, C++, Python},
-  tools: {Clean-Architecture, Dagger-Hilt, Media3(media-player), Music player service},
+  tools: {Clean-Architecture, Dagger-Hilt, Media3(media-player-service)},
   architecture: {"MVVM", "design system pattern"},
   projects:[  {"Clone app of 100haryt.com"},
               {"Aydym.com music player app"},
@@ -20,6 +20,11 @@ var myCareer = {
 }
 ```
 <br>
+
+### Graduated:
+<div align="start">
+   <h1><img src="https://www.iau-hesd.net/sites/default/files/styles/medium/public/media_logo/Oguz-Han.png?itok=upM-6J0T" width="30"> <a href="https://etut.edu.tm/"> Oguzhan University of Engineering Technologies</a></h1>
+</div>
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
