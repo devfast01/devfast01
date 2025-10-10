@@ -44,10 +44,9 @@ var myCareer = {
 
 
 
-<h3>
+<h3> Click here --> 
    <a href="https://www.instagram.com/taslama_isler/"> My handmade projects in instagram.</a>
 </h3>
-
 
 
 ### 🔗 Connect with me ↓
