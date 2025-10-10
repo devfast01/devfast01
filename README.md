@@ -10,8 +10,8 @@
    </h2>
 </div>
 
-<div align="center">
-   <h1>Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a></h1>
+<div align="start">
+   <h3>Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"height="50" width="50"> </h3>
 </div>
 
 </br>Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="50" width="50"> 
