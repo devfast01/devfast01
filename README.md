@@ -2,6 +2,11 @@
    <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm <a href="https://www.instagram.com/taslama_isler/">Begli Welli !</a></h1>
 </div>
 
+### Graduated:
+<div align="start">
+   <h1><img src="https://www.iau-hesd.net/sites/default/files/styles/medium/public/media_logo/Oguz-Han.png?itok=upM-6J0T" width="30"> <a href="https://etut.edu.tm/"> Oguzhan University of Engineering Technologies</a></h1>
+</div>
+
 </br>Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="50" width="50"  > 
 </em></p>
 
@@ -20,11 +25,6 @@ var myCareer = {
 }
 ```
 <br>
-
-### Graduated:
-<div align="start">
-   <h1><img src="https://www.iau-hesd.net/sites/default/files/styles/medium/public/media_logo/Oguz-Han.png?itok=upM-6J0T" width="30"> <a href="https://etut.edu.tm/"> Oguzhan University of Engineering Technologies</a></h1>
-</div>
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
