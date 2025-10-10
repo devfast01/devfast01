@@ -10,9 +10,9 @@
 ```javascript
 var myCareer = {
   pronouns: "he" | "his",
-  platform: {Android},
+  platform: {Android --> KOTLIN, FLUTTER, JETPACK COMPOSE},
   language: {Kotlin, Dart, Java, C++, Python},
-  tools: {Clean-Architecture, Dagger-Hilt, Media3(media-player), Music service, Pagging3},
+  tools: {Clean-Architecture, Dagger-Hilt, Media3(media-player), Music player service},
   architecture: {"MVVM", "design system pattern"},
   projects:[  {"Clone app of 100haryt.com"},
               {"Aydym.com music player app"},
