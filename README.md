@@ -21,7 +21,7 @@ var myCareer = {
   experience: 2 years,
   platform: {Android --> KOTLIN, FLUTTER, JETPACK COMPOSE},
   language: {Kotlin, Dart, Java, C++, Python},
-  tools: {multi module, coroutine flow, background services, map location, Dagger-Hilt, Media3(media-player-service)},
+  tools: {Multi module, Coroutine flow, Background ervices, Map location, Dagger-Hilt, Media3(media-player-service)},
   architecture: {"MVVM", "Clean-Architecture"},
   projects:[  {"Clone app of 100haryt.com" : "https://drive.google.com/file/d/1K_kTXSAVcrpuCOAmrO5YB1SsQSGrkic-/view?usp=sharing" },
               {"Aydym.com music player app" : "https://drive.google.com/file/d/1dN4I9cOstDpFlC0jSplvQX61CDiFackP/view?usp=sharing"},
